@@ -1,0 +1,2 @@
+# rogerio
+scripts dos projetos
